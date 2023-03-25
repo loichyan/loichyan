@@ -24,8 +24,8 @@ impl LoiChyan {
 
 - 📚 A self-taught developer, loving and enjoying open source!\
   　 一个自学的开发者，热爱开源！
-- ♎ A super fanboy of static types and functional programming!\
-  　 一个静态类型 & 函数式编程的忠实粉丝！
+- ♎ A super fanboy of static types and functional programming\
+  　 一个静态类型 & 函数式编程的忠实粉丝
 - 🎮 A player of Overwatch, heroes never die!\
   　 一个平平无奇的守望玩家，英雄不朽！
 - 😽 Spends a lot of time on funny memes lol\
@@ -46,3 +46,11 @@ impl LoiChyan {
   [After Effects](https://www.adobe.com/products/aftereffects.html) /
   [Premiere](https://www.adobe.com/products/premiere.html) /
   [Illustrotor](https://www.adobe.com/products/illustrator.html)
+
+---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+> These Readme stats are generated using the github action
+> [waka-readme-stats](https://github.com/anmol098/waka-readme-stats).
