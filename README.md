@@ -1,5 +1,10 @@
 ## 👋 Hi there | <small>你好呀！</small>
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/loichyan?style=social)](https://twitter.com/intent/follow?screen_name=loichyan)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/loichyan?logo=reddit&style=social)
+[![GitHub Followers](https://img.shields.io/github/followers/loichyan?style=social)](https://github.com/loichyan?tab=followers)
+[![Visitor Count](https://shields-io-visitor-counter.herokuapp.com/badge?page=loichyan.loichyan&style=social&logo=homeadvisor)](https://loichyan.me)
+
 ```rust
 impl LoiChyan {
     fn new() -> Self {
@@ -49,6 +54,7 @@ impl LoiChyan {
 
 ---
 
+<!-- prettier-ignore-start -->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-23%20mins-blue)
 
@@ -120,6 +126,7 @@ TypeScript               2 repos             ████░░░░░░░�
 
  Last Updated on 25/03/2023 01:34:23 UTC
 <!--END_SECTION:waka-->
+<!-- prettier-ignore-end -->
 
 > These Readme stats are generated using the github action
 > [waka-readme-stats](https://github.com/anmol098/waka-readme-stats).
