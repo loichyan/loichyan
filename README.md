@@ -1,7 +1,7 @@
 ## 👋 Hi there | <small>你好呀！</small>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/loichyan?style=social)](https://twitter.com/intent/follow?screen_name=loichyan)
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/loichyan?logo=reddit&style=social)
+[![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/loichyan?logo=reddit&style=social)](https://www.reddit.com/user/loichyan)
 [![GitHub Followers](https://img.shields.io/github/followers/loichyan?style=social)](https://github.com/loichyan?tab=followers)
 [![Visitor Count](https://shields-io-visitor-counter.herokuapp.com/badge?page=loichyan.loichyan&style=social&logo=homeadvisor)](https://loichyan.me)
 
