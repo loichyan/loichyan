@@ -8,10 +8,11 @@ on:
 
 jobs:
   update-readme:
-    name: update-readme
+    name: Update README.md
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master # PLEASE USE MASTER BRANCH
+      - name: Update Wakatime stats
+        uses: anmol098/waka-readme-stats@master # PLEASE USE MASTER BRANCH
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
