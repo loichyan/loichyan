@@ -50,6 +50,75 @@ impl LoiChyan {
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-77.9%20thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 2.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 328 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 11 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                190 commits         ███████░░░░░░░░░░░░░░░░░░   28.88 % 
+🌆 Daytime                277 commits         ███████████░░░░░░░░░░░░░░   42.10 % 
+🌃 Evening                191 commits         ███████░░░░░░░░░░░░░░░░░░   29.03 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Tuesday                  73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+Wednesday                68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Thursday                 141 commits         █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Friday                   130 commits         █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+Saturday                 112 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Sunday                   67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Rust** 
+
+```text
+Rust                     6 repos             ████████████░░░░░░░░░░░░░   46.15 % 
+Lua                      5 repos             ██████████░░░░░░░░░░░░░░░   38.46 % 
+TypeScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+```
+
+
+
+
+ Last Updated on 25/03/2023 01:34:23 UTC
 <!--END_SECTION:waka-->
 
 > These Readme stats are generated using the github action
