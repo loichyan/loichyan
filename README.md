@@ -1,4 +1,4 @@
-## 👋 Hi there | 你好呀！
+## 👋 Hi there | <small>你好呀！</small>
 
 ```rust
 impl LoiChyan {
@@ -20,21 +20,21 @@ impl LoiChyan {
 }
 ```
 
-### 😎 A little more about me | 关于我的碎碎念
+### 😎 A little more about me | <small>关于我的碎碎念</small>
 
 - 📚 A self-taught developer, loving and enjoying open source!\
-  　 一个自学的开发者，热爱开源！
+  　 <small>一个自学的开发者，热爱开源！</small>
 - ♎ A super fanboy of static types and functional programming\
-  　 一个静态类型 & 函数式编程的忠实粉丝
+  　 <small>一个静态类型 & 函数式编程的忠实粉丝</small>
 - 🎮 A player of Overwatch, heroes never die!\
-  　 一个平平无奇的守望玩家，英雄不朽！
+  　 <small>一个平平无奇的守望玩家，英雄不朽！</small>
 - 😽 Spends a lot of time on funny memes lol\
-  　 沉迷梗图，无法自拔，哈哈哈
+  　 <small>沉迷梗图，无法自拔，哈哈哈</small>
 
 > _Life is tricky, stay in your magic :D_ \
-> _即使生活狡黠，也要保持快乐魔法 :D_
+> <small>_即使生活狡黠，也要保持快乐魔法 :D_</small>
 
-### 🛠️ Languages and tools | 语言和工具
+### 🛠️ Languages and tools | <small>语言和工具</small>
 
 - 👾 [Rust](https://www.rust-lang.org/) /
   [TypeScript](https://www.typescriptlang.org/) / [Lua](https://www.lua.org/) /
