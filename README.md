@@ -33,7 +33,7 @@ impl LoiChyan {
   　 <small>一个静态类型 & 函数式编程的忠实粉丝</small>
 - 🎮 A player of Overwatch, heroes never die!\
   　 <small>一个平平无奇的守望玩家，英雄不朽！</small>
-- 😽 Spends a lot of time on funny memes lol\
+- 😽 Spending a lot of time on funny memes lol\
   　 <small>沉迷梗图，无法自拔，哈哈哈</small>
 
 > _Life is tricky, stay in your magic :D_ \
