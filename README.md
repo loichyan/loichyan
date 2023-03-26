@@ -1,4 +1,4 @@
-## 👋 Hi there | <small>你好呀！</small>
+## 👋 Hi there | <small>你好呀</small> (˵ •̀ ᴗ - ˵ ) ✧
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/loichyan?style=social)](https://twitter.com/intent/follow?screen_name=loichyan)
 [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/loichyan?logo=reddit&style=social)](https://www.reddit.com/user/loichyan)
@@ -7,7 +7,7 @@
 
 ```rust
 impl LoiChyan {
-    fn new() -> Self {
+    pub fn new() -> Self {
         Self {
           sign: "Lion",
           // 星座： 狮子座
@@ -18,9 +18,31 @@ impl LoiChyan {
         }
     }
 
-    fn say_hi(&self) {
-        println!("Thanks for dropping by, hope you find some of my work interesting!");
-        //        谢谢你的关注，希望你对我的工作感兴趣！
+    pub fn say_hi(&self) {
+        println!("
+            Thanks for dropping by, hope you find some of my work interesting!
+        ");
+        //  谢谢你的关注，希望你对我的工作感兴趣！
+    }
+
+    pub fn status(&self) {
+        println!("
+            1) I'm not a native English speaker and I'm doing my best to express
+               my thoughts clearly and gently :)
+
+            2) I'm still new to contributing and managing open source projects,
+               and I'd appreciate your attention and suggestions!
+        ");
+        //  1) 我的母语并非英语，我会尽力清晰、温和的将我的想法表达出来 :)
+        //
+        //  2) 在贡献和管理开源项目方面，我还是个新手，希望得到你的关注和建议!
+    }
+
+    pub fn future_goal(&self) {
+        println!("
+            Learn more about computer science and open source project management.
+        ");
+        //  学习更多关于计算机科学和开源项目管理的知识。
     }
 }
 ```
@@ -62,63 +84,63 @@ impl LoiChyan {
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-78.2%20thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 2.5 kB Used in GitHub's Storage 
- > 
+> 📦 2.5 kB Used in GitHub's Storage
+ >
 > 🏆 361 Contributions in the Year 2023
- > 
+ >
 > 💼 Opted to Hire
- > 
-> 📜 11 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
-**I'm an Early 🐤** 
+ >
+> 📜 11 Public Repositories
+ >
+> 🔑 3 Private Repositories
+ >
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning                196 commits         ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.95 % 
-🌆 Daytime                284 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.95 % 
-🌃 Evening                197 commits         ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.10 % 
-🌙 Night                  0 commits           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
+🌞 Morning                196 commits         ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.95 %
+🌆 Daytime                284 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.95 %
+🌃 Evening                197 commits         ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.10 %
+🌙 Night                  0 commits           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 %
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Thursday**
 
 ```text
-Monday                   67 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.90 % 
-Tuesday                  73 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.78 % 
-Wednesday                68 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.04 % 
-Thursday                 143 commits         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.12 % 
-Friday                   131 commits         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.35 % 
-Saturday                 127 commits         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.76 % 
-Sunday                   68 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.04 % 
+Monday                   67 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.90 %
+Tuesday                  73 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.78 %
+Wednesday                68 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.04 %
+Thursday                 143 commits         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.12 %
+Friday                   131 commits         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.35 %
+Saturday                 127 commits         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.76 %
+Sunday                   68 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.04 %
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
+🐱‍💻 Projects:
 No Activity Tracked This Week
 
-💻 Operating System: 
+💻 Operating System:
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Rust** 
+**I Mostly Code in Rust**
 
 ```text
-Rust                     6 repos             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   46.15 % 
-Lua                      5 repos             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.46 % 
-TypeScript               2 repos             ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.38 % 
+Rust                     6 repos             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   46.15 %
+Lua                      5 repos             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.46 %
+TypeScript               2 repos             ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.38 %
 ```
 
 
