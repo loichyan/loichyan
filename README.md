@@ -27,20 +27,21 @@ impl LoiChyan {
 
     pub fn status(&self) {
         println!("
-            1) I'm not a native English speaker and I'm doing my best to express
-               my thoughts clearly and gently :)
+            1) English is not my first language, but I am striving to communicate
+               my thoughts clearly and politely :)
 
-            2) I'm still new to contributing and managing open source projects,
-               and I'd appreciate your attention and suggestions!
+            2) I am new to the world of open source, and any attention and suggestions
+               would be highly appreciated!
         ");
-        //  1) 我的母语并非英语，我会尽力清晰、温和的将我的想法表达出来 :)
+        //  1) 我的母语并非英语，不过我会尽力清晰、友善地表达我的想法 :)
         //
-        //  2) 在贡献和管理开源项目方面，我还是个新手，希望得到你的关注和建议!
+        //  2) 在开源世界，我还是个新手，希望得到你的关注和建议!
     }
 
     pub fn future_goal(&self) {
         println!("
-            Learn more about computer science and open source project management.
+            Deep my understanding of computer science concepts and improve my open
+            source project management skills.
         ");
         //  学习更多关于计算机科学和开源项目管理的知识。
     }
