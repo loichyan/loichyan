@@ -16,6 +16,8 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          COMMIT_USERNAME: github-actions
+          COMMIT_EMAIL: github-actions@github.com
           COMMIT_MESSAGE: "chore(readme): update readme stats"
           SHOW_UPDATED_DATE: "True"
           SHOW_LINES_OF_CODE: "True"
