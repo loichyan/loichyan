@@ -58,8 +58,8 @@ impl LoiChyan {
   　 <small>一个平平无奇的守望玩家，英雄不朽！</small>
 - 😽 Spending a lot of time on funny memes lol\
   　 <small>沉迷梗图，无法自拔，哈哈哈</small>
-- 🎧 Really into rock music 🤘\
-  　 <small>超喜欢摇滚 🤘</small>
+- 🎧 Really into pop, rock and folk music 🤘\
+  　 <small>超喜欢流行，摇滚和民谣 🤘</small>
 
 > _Life is tricky, stay in your magic :D_ \
 > <small>_即使生活狡黠，也要保持快乐魔法 :D_</small>
