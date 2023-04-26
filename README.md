@@ -40,10 +40,9 @@ impl LoiChyan {
 
     pub fn future_goal(&self) {
         println!("
-            Deep my understanding of computer science concepts and improve my open
-            source project management skills.
+            Deep dive into real-time search technology.
         ");
-        //  学习更多关于计算机科学和开源项目管理的知识。
+        //  深入研究实时搜索技术。
     }
 }
 ```
