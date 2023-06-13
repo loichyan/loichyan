@@ -65,16 +65,16 @@ impl LoiChyan {
 
 ### 🛠️ Languages and tools | <small>语言和工具</small>
 
-- 👾 [Rust](https://www.rust-lang.org/) /
-  [TypeScript](https://www.typescriptlang.org/) / [Lua](https://www.lua.org/) /
-  [Python](https://www.python.org/)
-- 💻 [Fedora](https://silverblue.fedoraproject.org/) / [Nix](https://nixos.org/)
-  / [NeoVim](https://github.com/loichyan/DeltaVim) /
-  [Zsh](https://github.com/zimfw/zimfw)
-- 📸 [Photoshop](https://www.adobe.com/products/photoshop.html) /
-  [After Effects](https://www.adobe.com/products/aftereffects.html) /
-  [Premiere](https://www.adobe.com/products/premiere.html) /
-  [Illustrotor](https://www.adobe.com/products/illustrator.html)
+- 👾 [Lua](https://www.lua.org/) / [Python](https://www.python.org/) /
+  [Rust](https://www.rust-lang.org/) /
+  [TypeScript](https://www.typescriptlang.org/)
+- 💻 [Fedora](https://silverblue.fedoraproject.org/) /
+  [Fish](https://fishshell.com/) /
+  [NeoVim](https://github.com/loichyan/DeltaVim) / [Nix](https://nixos.org/)
+- 📸 [After Effects](https://www.adobe.com/products/aftereffects.html) /
+  [Illustrotor](https://www.adobe.com/products/illustrator.html) /
+  [Photoshop](https://www.adobe.com/products/photoshop.html) /
+  [Premiere](https://www.adobe.com/products/premiere.html)
 
 ---
 
