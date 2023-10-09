@@ -57,8 +57,8 @@ impl LoiChyan {
   　 <small>一个平平无奇的守望玩家，英雄不朽！</small>
 - 😽 Spending a lot of time on funny memes lol\
   　 <small>沉迷梗图，无法自拔，哈哈哈</small>
-- 🎧 Really into dream/synth pop, shoegaze and folk music 🤘\
-  　 <small>超喜欢梦幻/合成器流行、自赏摇滚和民谣 🤘</small>
+- 🎧 Really into dream pop, shoegaze and folk music 🤘\
+  　 <small>超喜欢梦幻流行、自赏摇滚和民谣 🤘</small>
 
 > _Life is tricky, stay in your magic :D_ \
 > <small>_即使生活狡黠，也要保持快乐魔法 :D_</small>
