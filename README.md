@@ -14,8 +14,8 @@
   He spends a lot of time on <strong>funny memes :smirk_cat:</strong>.
 </p>
 
-<blockquote align="right">
-  <em>Shine on you crazy diamond</em>
+<blockquote>
+  <p align="right"><em>Shine on you crazy diamond</em></p>
 </blockquote>
 
 <details>
