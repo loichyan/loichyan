@@ -20,7 +20,19 @@
 
 <details>
 <summary><em>Click for GitHub Stats</em></summary>
+
 <p align="center">
-    Oops, nothing yet :hushed:
+  <img width="450" src="https://loichyan.dev/stats/github" alt="GitHub Stats" />
+  <br>
+  <img width="450" src="https://loichyan.dev/stats/wakatime" alt="Wakatime Stats"/>
+</p>
+
+<p align="right">
+  <small><em>
+    Powered by
+    <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a>
+    and
+    <a href="https://github.com/muety/wakapi">Wakapi</a>
+  </em></small>
 </p>
 </details>
